@@ -1,0 +1,6 @@
+npm run test   -> local test network
+
+//methods -> object that contains all public functions in contract
+    const message = await inbox.methods.message().call()
+
+//module: 
