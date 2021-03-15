@@ -1,2 +1,2 @@
-# lotterySmartContract
-# lotterySmartContract
+# lotterySmartContract on RInkeby Eth Network
+
